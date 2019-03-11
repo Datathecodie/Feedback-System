@@ -1,0 +1,47 @@
+ToDo
+1. Validate
+    email (...@...com)
+    phone(7/8/9......)10
+    password(Crap_forma~\)
+    
+    Done
+    
+2. check if roll-no exists while registering
+Done
+
+3. add faculty reg to homepage
+Done
+
+4. add forgot password, using phpmailer part. 
+
+
+
+
+
+
+
+
+process in direction to finish all.
+
+
+1. Raw entry subjects in DB. SOme DONE, DO more
+
+2. Remove subject and sem from faculty side. keep dept  DONE
+
+3. my subjects, add subjects files and options to faculty side. DONE
+
+4. Create sub-fac table. 
+        subject        Sem of subject        Dept of subject        Faculty         DONE
+        
+5. Show my subs from there. sub fac. Then add new to it. 
+    show all entries from subjects, which are not included in sub-fac table with his name taken.
+    
+6. in give Feedback, student sees his subs, based on his dept,sem. then show resp faculty name list.
+    
+    Show sub from subjects where dept and sem match.
+        for each sub. 
+            display all faculty
+                check if each on got feedback from student, 
+                    if yes, grey out. else give link to Feedback.
+                    
+                    
